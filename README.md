@@ -1,25 +1,20 @@
-<img src="./images/media/image1.png"
-style="width:6.5in;height:3.65486in" />
+# <span class="smallcaps">UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 
-<span class="smallcaps">UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
+# FACULTY OF COMPUTER SCIENCE
 
-FACULTY OF COMPUTER SCIENCE
+# Master in Artificial Intelligence
 
-Master in Artificial Intelligence
+# Topic: Computational Geometry \[2014\] 
 
-Topic: Computational Geometry
+By Heider Jeffer
 
-by Heider Jeffer
+Instructor: Mehdi Jazayeri
 
-14 December - 20 December 2014
-
-Instructor: Prof. Mehdi Jazayeri
-
-Aassistant: Sasˇa Nesˇic´
+Assistant: Sasa Nesic
 
 Speaker: Prof. Evanthia Papadopoulou
 
-#  Summary
+# Summary
 
 Computational geometry is a branch of computer science devoted to the
 study of algorithms which can be stated in terms of geometry. Some
