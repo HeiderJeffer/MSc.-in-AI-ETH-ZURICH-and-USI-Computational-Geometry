@@ -1,4 +1,4 @@
-# <span class="smallcaps">ETH-ZuriCH UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
+# <span class="smallcaps">ETH-ZURICH UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 
 # FACULTY OF COMPUTER SCIENCE
 
