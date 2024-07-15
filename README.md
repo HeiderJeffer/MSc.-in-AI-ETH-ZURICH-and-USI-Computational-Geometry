@@ -6,7 +6,7 @@
 
 # Topic: Computational Geometry \[2014\] 
 
-Speaker: Prof. Evanthia Papadopoulou and Heider Jeffer
+Speakers: Heider Jeffer and Prof. Evanthia Papadopoulou
 
 Instructor: Mehdi Jazayeri
 
