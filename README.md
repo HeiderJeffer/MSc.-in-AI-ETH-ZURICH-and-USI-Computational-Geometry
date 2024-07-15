@@ -6,13 +6,13 @@
 
 # Topic: Computational Geometry \[2014\] 
 
-By Heider Jeffer
+Speaker: Prof. Evanthia Papadopoulou and Heider Jeffer
 
 Instructor: Mehdi Jazayeri
 
 Assistant: Sasa Nesic
 
-Speaker: Prof. Evanthia Papadopoulou
+
 
 # Summary
 
