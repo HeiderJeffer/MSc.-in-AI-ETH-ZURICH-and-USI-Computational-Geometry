@@ -1,20 +1,22 @@
-# <span class="smallcaps">ETH-ZURICH UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/MSc.-in-AI-ETH-ZURICH-and-USI-Computational-Geometry" alt = "Visitors-Counter"/>
+</body>
 
-# FACULTY OF COMPUTER SCIENCE
+#### <span class="smallcaps">ETH-ZURICH UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 
-# Master in Artificial Intelligence
+#### FACULTY OF COMPUTER SCIENCE - Master in Artificial Intelligence
 
-# Topic: Computational Geometry \[2014\] 
+#### Topic: Computational Geometry \[2014\] 
 
-Speakers: Heider Jeffer and Prof. Evanthia Papadopoulou
+#### Speakers: Heider Jeffer and Prof. Evanthia Papadopoulou
 
-Instructor: Mehdi Jazayeri
+#### Instructor: Mehdi Jazayeri
 
-Assistant: Sasa Nesic
+#### Assistant: Sasa Nesic
 
 
 
-# Summary
+##### Summary
 
 Computational geometry is a branch of computer science devoted to the
 study of algorithms which can be stated in terms of geometry. Some
@@ -38,7 +40,7 @@ computer-aided engineering (CAE) (programming of numerically controlled
 
 2.  Numerical computational geometry.
 
-# Combinatorial computational geometry
+#### Combinatorial computational geometry
 
 The primary goal of research in combinatorial computational geometry is
 to develop efficient algorithms and data structures for solving problems
@@ -46,7 +48,7 @@ stated in terms of basic geometrical objects: points, line segments,
 polygons, polyhedral, etc. Some of these problems seem so simple that
 they were not regarded as problems at all until the advent of computers.
 
-# Problem classes
+##### Problem classes
 
 The core problems in computational geometry may be classified in
 different ways, according to various criteria. The following general
